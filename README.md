@@ -27,5 +27,23 @@ npm run build
 ```
 npm run lint
 ```
+### For routing pages install router
+```
+npm install vue-router@next
+```
+## Set up json-server to create API
+### install json-server
+```
+npm install -g json-server
+Then create folder in project folder,create .json file in created folder, go to the created folder and after then run server by command line.
+```
+### Run server
+```
+json-server --watch file_name(.json) 
+```
+### Install axios and use to call API
+```
+npm install axios
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
