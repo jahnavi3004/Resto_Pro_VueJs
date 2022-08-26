@@ -1,6 +1,6 @@
 # resto-project
 ```
-First download and install NodeJs LTS version from official site, npm(Node package Manager) is also installed with NodeJs.
+First download and install NodeJs LTS version from official site, npm(Node package Manager) is already installed with NodeJs.
 ```
 ## Project setup
 ```
