@@ -1,6 +1,8 @@
 # resto-project
 
-```First download and install NodeJs LTS version from official site.
+```
+First download and install NodeJs LTS version from official site.
+```
 ## Project setup
 ```
 npm install
