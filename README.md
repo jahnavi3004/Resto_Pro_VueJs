@@ -1,11 +1,8 @@
 # resto-project
 ```
-First download and install NodeJs LTS version from official site, npm(Node package Manager) is already installed with NodeJs.
+First download and install NodeJs LTS version from official site 'https://nodejs.org/en/download/', npm(Node package Manager) is already installed with NodeJs.
 ```
 ## Project setup
-```
-npm install
-```
 ### Install vue/cli 
 ```
 npm install -g @vue/cli
