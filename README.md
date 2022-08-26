@@ -13,6 +13,8 @@ npm install -g @vue/cli
 ### Create the project
 ```
 vue create project_name   
+```
+```
 after creating the project, go to the project folder.
 ```
 ### Compiles and hot-reloads for development
@@ -35,6 +37,8 @@ npm install vue-router@next
 ### install json-server
 ```
 npm install -g json-server
+```
+```
 Then create folder in project folder,create .json file in created folder, go to the created folder and after then run server by command line.
 ```
 ### Run server
