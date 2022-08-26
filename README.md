@@ -32,7 +32,7 @@ npm install vue-router@next
 ```
 npm install -g json-server
 ```
-Then create folder in project folder,create .json file in created folder, go to the created folder and after then run server by command line.
+Then create folder in project folder, create .json file in created folder, go to the created folder and after then run server by command line.
 ### Run server
 ```
 json-server --watch file_name(.json) 
